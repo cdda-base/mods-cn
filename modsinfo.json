@@ -1,0 +1,219 @@
+[
+{  
+	"modname":"奥术【未汉化】",  
+	"tags":["物品扩展","地形扩展","怪物扩展","职业扩展"],  
+	"author":"chaosvolt",  
+	"ver":" 2019.05.09",  
+	"info":"加入了魔法元素，怪物精华，好几个魔法师职业，炼金术，各种魔法书与武器。8945测试有效", 
+	"warning":"2019.05.09mod作者在github更新的mod版本，建议使用8920+。",
+	"addr":"mods/cdda-arcana-mod-master.zip"  
+},
+{  
+	"modname":"Vampire mod(吸血鬼【未汉化】)",  
+	"tags":["物品扩展","地形扩展","怪物扩展","职业扩展","NPC扩展","任务扩展"],  
+	"author":"Axema",  
+	"ver":" 2019.04.12",  
+	"info":"加入了吸血鬼职业，更多的魔法，吸血鬼npc与新的npc任务。里面有两个mod，其中加强版需要同时加载普通版+【奥术】mod。8945测试有效",  
+	"warning":"2019.04.12mod作者在github更新的mod版本，建议使用8760+。",
+	"addr":"mods/Vampiric-Stuff-master.zip"  
+},
+{
+	"modname":"蝙蝠侠衣服【未汉化】",  
+	"tags":["物品扩展"],  
+	"author":"Unknow",  
+	"ver":" v1.0",  
+	"info":"加入了蝙蝠侠的衣服与武器，想成为黑暗骑士的可以行动起来啦！",
+	"addr":"mods/Bat-Clothing-master.rar"  
+},
+{
+	"modname":"Odds and Ends【未汉化】",  
+	"tags":["物品扩展","场景扩展","职业扩展"],  
+	"author":"BorkBorkGoesTheCode",  
+	"ver":" v1.0",  
+	"info":"加入了火炮弹药筒，两把C96手枪，一把无声步枪，几个新职业，一个多功能眼镜（红外&太阳&泳镜），一些灾变前地形",
+	"addr":"mods/Odds-N-Ends-mod-prototype-master.rar"  
+},
+{
+	"modname":"变身",  
+	"tags":["物品扩展","武术扩展","场景扩展"],  
+	"author":"Musue暮雪",  
+	"ver":" 2019.04.30",  
+	"info":"面向特摄粉丝和中后期玩家的异界内容补充包，推荐于最后加载.8866测试有效",
+	"addr":"mods/Henshin.zip"  
+},
+{
+	"modname":"着火世界mod【未汉化】",  
+	"tags":["物品扩展","怪物扩展"],  
+	"author":"Trivega",  
+	"ver":" v1.0",  
+	"info":"添加:许多火系的怪物，新的材料，物品，车辆零件.8653测试有效",
+	"addr":"mods/World_On_Fire.rar"  
+},
+{  
+	"modname":"辐射mod(已汉化)",  
+	"tags":["物品扩展","地形扩展","职业扩展","怪物扩展"],  
+	"author":"Tefnut",  
+	"ver":" v1.0+网友“没心”汉化",  
+	"info":"添加:一些辐射1的枪与近战武器,避难所衣服,核子可乐,各种辐射里的怪物,新的武术书籍车辆零部件等等.8653测试有效",
+	"addr":"mods/Fallout-CDDA.rar"  
+},
+{  
+	"modname":"森林mod",  
+	"tags":["物品扩展","地形扩展","NPC扩展"],  
+	"author":"未知",  
+	"ver":" v1.0",  
+	"info":"添加:森林覆盖率,森林地形扩展变体,[NPC]猎人",
+	"addr":"mods/Forest.rar"  
+},
+{  
+	"modname":"幸存者擴充",  
+	"tags":["物品扩展","地形扩展"],  
+	"author":"桂溪",  
+	"ver":" v1.0",  
+	"info":"擴充道具、配方、地形，重新平衡原版部分內容。",  
+	"addr":"mods/Survivor Extend v 1.0.rar"  
+}, 
+{  
+	"modname":"采矿Mod",  
+	"tags":["地图扩展","物品扩展"],  
+	"author":"DangerNoodle",  
+	"ver":"993499094汉化2018.7.9",  
+	"info":"在地下随机添加矿脉,获取各种自然资源.(Mining Mod)。",  
+	"addr":"mods/CDDA_挖矿mod_Runningsky_CHS.zip"  
+}, 
+{  
+	"modname":"商人",  
+	"tags":["地图扩展","NPC扩展"],  
+	"author":"Undereastern",  
+	"ver":"2018.04",  
+	"info":"添加商人和幸存者聚集点。",  
+	"addr":"mods/商人mod安卓4.9(或pc...)出错修复.zip"  
+}, 
+{  
+	"modname":"战锤40K【未汉化】",  
+	"tags":["物品扩展","怪物扩展"],  
+	"author":"Wulfle",  
+	"ver":"sddony修复2019.01.21",  
+	"info":"增加了“战锤40000宇宙”的元素。",  
+	"warning":"需要同时加载内置mod:疯狂大灾变CrazyCataclysm。",  
+	"addr":"mods/Cataclysim-40K-master.zip"  
+}, 
+{  
+	"modname":"纳米科技装备",  
+	"tags":["物品扩展"],  
+	"author":"Shard",  
+	"ver":"Ziko340汉化2018.12.26",  
+	"info":"基于纳米技术和3D打印技术的高端产品，以后将添加变异体系。",  
+	"addr":"mods/AdvancedGear-CDDA-Mod-master.zip"  
+}, 
+{  
+	"modname":"工具收纳包",  
+	"tags":["物品扩展"],  
+	"author":"Maddremor",  
+	"ver":"2017.10.09",  
+	"info":"工具无处收纳?试试这个!",  
+	"addr":"mods/tool bundle master(工具收纳包).zip"  
+}, 
+{  
+	"modname":"磨面、做米",  
+	"tags":["物品扩展"],  
+	"author":"Jeff",  
+	"ver":"huayue0923修改版",  
+	"info":"添加了一个电力研磨机、大米放大器和相应配方，方便的磨面，并用面粉制作大米。还有载具用联动窗帘。",  
+	"addr":"mods/磨面、做米0.3.rar"  
+},  
+{  
+	"modname":"Cataclysm++",  
+	"tags":["物品扩展","怪物扩展","任务扩展"],  
+	"author":"Noctifer",  
+	"ver":"Ziko340汉化2019.4.9",  
+	"info":"大灾变的非官方扩展mod",  
+	"warning":"基于github上2019.4.8的mod版本的汉化，建议使用8740+游戏版本加载本汉化mod。",  
+	"addr":"mods/nocts_cata_mod-master.zip"  
+},  
+{  
+	"modname":"PKs Rebalancing",  
+	"tags":["物品扩展","怪物扩展","建筑扩展"],  
+	"author":"pisskop",  
+	"ver":"Ziko340汉化2019.4.9",  
+	"info":"重新平衡刷新列表，添加新怪物和物品，添加新建筑和强化旧建筑，并努力创造更恶劣的生存环境。",  
+	"warning":"基于github上2019.4.8的mod版本的汉化，建议使用8740+游戏版本加载本汉化mod。",  
+	"addr":"mods/PKs_Rebalancing-master.zip"  
+},  
+{  
+	"modname":"北斗神拳",  
+	"tags":["武术扩展"],  
+	"author":"未知",  
+	"ver":"2016/12/1",  
+	"info":"这是一个适合世纪末日的mod，乱世出英豪。",  
+	"addr":"mods/北斗神拳汉化修正.zip"  
+},
+{  
+	"modname":"八极拳",  
+	"tags":["武术扩展"],  
+	"author":"櫻庭十六夜",  
+	"ver":"3.91",  
+	"info":"新增一种能够对应枪矛与棍类武器的武术──八极拳",  
+	"addr":"mods/八极拳.zip"  
+}, 
+{
+	"modname":"新月玫瑰补充包",
+	"tags":["物品扩展","武器扩展","武术扩展"],
+	"author":"言静",
+	"ver":"v1.1",
+	"info":"面向后期的娱乐向粉丝向物品补充包，添加了网络动画RWBY中的一些专属武器以及它们的使用技巧。",
+	"addr":"mods/Crescent_Rose_1.zip"
+},  
+{  
+	"modname":"黑虎阿福武术流派",  
+	"tags":["武术扩展"],  
+	"author":"The Nameless",  
+	"ver":"0.C.8242",  
+	"info":"使用黑虎阿福所使用的独特招式来击退敌人！",  
+	"addr":"mods/黑虎阿福流派mod-0.C.8242.zip"  
+},  
+{  
+	"modname":"hentai",  
+	"tags":["LUA扩展","NPC扩展","怪物扩展"],  
+	"author":"溜まり場の変態",  
+	"ver":"汉化版",  
+	"info":"追加HENTAI元素！",  
+	"warning":"适用于PC 0.D-8612前的版本,不适用于安卓版。",  
+	"addr":"mods/HentaiMod[渣翻][修改自群内的{Hentai垃圾汉化V2}].zip"  
+},  
+{  
+	"modname":"电子书扫描仪",  
+	"tags":["LUA扩展","物品扩展"],  
+	"author":"LISP",  
+	"ver":"贴吧用户_0P9XUWe汉化版",  
+	"info":"使用平板电脑和扫描仪将纸质图书转换成数字形式，便于存储。",  
+	"warning":"适用于PC 0.D-8612前的版本,不适用于安卓版。",  
+	"addr":"mods/bookscanner-master.rar"  
+},  
+{  
+	"modname":"空间徽章",  
+	"tags":["LUA扩展","物品扩展"],  
+	"author":"destoryandkill",  
+	"ver":"2019.2.2",  
+	"info":"空间徽章,有远程传送等功能。",  
+	"warning":"适用于PC 0.D-8612前的版本,不适用于安卓版。",  
+	"addr":"mods/空间徽章LUA mod,2019.2.2.rar"  
+},  
+{  
+	"modname":"Hard Mode",  
+	"tags":["LUA扩展"],  
+	"author":"未知",  
+	"ver":"鵺の轨迹提供",  
+	"info":"困难模式。",  
+	"warning":"适用于PC 0.D-8612前的版本.不适用于安卓版,0.4.7,0.4.9可能可以使用？",  
+	"addr":"mods/Hard_Mode.rar"  
+},  
+{  
+	"modname":"KawaiiMaid",  
+	"tags":["LUA扩展","物品扩展"],  
+	"author":"inoue",  
+	"ver":"鵺の轨迹翻译json,苍穹翻译lua",  
+	"info":"Kawaii角色、Kawaii女仆装、Kawaii武器等道具、利用Lua所制网络商店、传送等系统追加(百度贴吧鵺の轨迹翻译)。",  
+	"warning":"贴图需要同时加载hairs.适用于PC 0.D-8612前的版本,不适用于安卓版。",  
+	"addr":"mods/kawaii+hairs.rar"  
+}]
