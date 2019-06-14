@@ -112,7 +112,7 @@
 	"modname":"纳米科技装备",  
 	"tags":["物品扩展"],  
 	"author":"Shard",  
-	"ver":"Ziko340汉化2018.12.26",  
+	"ver":"Ziko340汉化2019.06.14",  
 	"info":"基于纳米技术和3D打印技术的高端产品，以后将添加变异体系。",  
 	"addr":"../../mods-cn/AdvancedGear-CDDA-Mod-master.zip"  
 }, 
@@ -136,18 +136,18 @@
 	"modname":"Cataclysm++",  
 	"tags":["物品扩展","怪物扩展","任务扩展"],  
 	"author":"Noctifer",  
-	"ver":"Ziko340汉化2019.4.9",  
+	"ver":"Ziko340汉化2019.06.14",  
 	"info":"大灾变的非官方扩展mod",  
-	"warning":"基于github上2019.4.8的mod版本的汉化，建议使用8740+游戏版本加载本汉化mod。",  
+	"warning":"基于github上2019.6.11的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
 	"addr":"../../mods-cn/nocts_cata_mod-master.zip"  
 },  
 {  
 	"modname":"PKs Rebalancing",  
 	"tags":["物品扩展","怪物扩展","建筑扩展"],  
 	"author":"pisskop",  
-	"ver":"Ziko340汉化2019.4.9",  
+	"ver":"Ziko340汉化2019.06.14",  
 	"info":"重新平衡刷新列表，添加新怪物和物品，添加新建筑和强化旧建筑，并努力创造更恶劣的生存环境。",  
-	"warning":"基于github上2019.4.8的mod版本的汉化，建议使用8740+游戏版本加载本汉化mod。",  
+	"warning":"基于github上2019.06.13的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
 	"addr":"../../mods-cn/PKs_Rebalancing-master.zip"  
 },  
 {  
