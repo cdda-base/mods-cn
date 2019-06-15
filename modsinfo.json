@@ -1,5 +1,4 @@
 [
-
 {  
 	"modname":"无限时空",  
 	"tags":["物品扩展","地图扩展","NPC扩展","怪物扩展","技能扩展","载具扩展","地形扩展","贴图扩展","职业扩展","变异扩展"],  
@@ -9,6 +8,32 @@
 	"warning":"Mod尚未制作完成且仅适用安卓版，测试游戏版本0.D-9150。目前可体验职业：制符师（其他MOD中含有的职业看看就行，因为正在测试中,职业的套装全部满配）",  
 	"addr":"../../mods-cn/无限时空v1.2.zip"  
 },
+{  
+	"modname":"纳米科技装备",  
+	"tags":["物品扩展"],  
+	"author":"Shard",  
+	"ver":"Ziko340汉化2019.06.14",  
+	"info":"基于纳米技术和3D打印技术的高端产品，以后将添加变异体系。",  
+	"addr":"../../mods-cn/AdvancedGear-CDDA-Mod-master.zip"  
+}, 
+{  
+	"modname":"Cataclysm++",  
+	"tags":["物品扩展","怪物扩展","任务扩展"],  
+	"author":"Noctifer",  
+	"ver":"Ziko340汉化2019.06.14",  
+	"info":"大灾变的非官方扩展mod",  
+	"warning":"基于github上2019.6.11的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
+	"addr":"../../mods-cn/nocts_cata_mod-master.zip"  
+},  
+{  
+	"modname":"PKs Rebalancing",  
+	"tags":["物品扩展","怪物扩展","建筑扩展"],  
+	"author":"pisskop",  
+	"ver":"Ziko340汉化2019.06.14",  
+	"info":"重新平衡刷新列表，添加新怪物和物品，添加新建筑和强化旧建筑，并努力创造更恶劣的生存环境。",  
+	"warning":"基于github上2019.06.13的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
+	"addr":"../../mods-cn/PKs_Rebalancing-master.zip"  
+},  
 {  
 	"modname":"奥术【未汉化】",  
 	"tags":["物品扩展","地形扩展","怪物扩展","职业扩展"],  
@@ -109,14 +134,6 @@
 	"addr":"../../mods-cn/Cataclysim-40K-master.zip"  
 }, 
 {  
-	"modname":"纳米科技装备",  
-	"tags":["物品扩展"],  
-	"author":"Shard",  
-	"ver":"Ziko340汉化2019.06.14",  
-	"info":"基于纳米技术和3D打印技术的高端产品，以后将添加变异体系。",  
-	"addr":"../../mods-cn/AdvancedGear-CDDA-Mod-master.zip"  
-}, 
-{  
 	"modname":"工具收纳包",  
 	"tags":["物品扩展"],  
 	"author":"Maddremor",  
@@ -131,24 +148,6 @@
 	"ver":"huayue0923修改版",  
 	"info":"添加了一个电力研磨机、大米放大器和相应配方，方便的磨面，并用面粉制作大米。还有载具用联动窗帘。",  
 	"addr":"../../mods-cn/磨面、做米0.3.rar"  
-},  
-{  
-	"modname":"Cataclysm++",  
-	"tags":["物品扩展","怪物扩展","任务扩展"],  
-	"author":"Noctifer",  
-	"ver":"Ziko340汉化2019.06.14",  
-	"info":"大灾变的非官方扩展mod",  
-	"warning":"基于github上2019.6.11的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
-	"addr":"../../mods-cn/nocts_cata_mod-master.zip"  
-},  
-{  
-	"modname":"PKs Rebalancing",  
-	"tags":["物品扩展","怪物扩展","建筑扩展"],  
-	"author":"pisskop",  
-	"ver":"Ziko340汉化2019.06.14",  
-	"info":"重新平衡刷新列表，添加新怪物和物品，添加新建筑和强化旧建筑，并努力创造更恶劣的生存环境。",  
-	"warning":"基于github上2019.06.13的mod版本的汉化，建议使用9100+游戏版本加载本汉化mod。",  
-	"addr":"../../mods-cn/PKs_Rebalancing-master.zip"  
 },  
 {  
 	"modname":"北斗神拳",  
