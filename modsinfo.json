@@ -9,6 +9,14 @@
 	"addr":"../../mods-cn/Infinite_space_v1.2.zip"  
 },
 {  
+	"modname":"培育茶叶MOD",  
+	"tags":["物品扩展"],  
+	"author":"Grim616",  
+	"ver":"2019年7月4日鵺の轨迹翻译",  
+	"info":"增加了茶叶的种子，生茶叶，茶。",  
+	"addr":"../../mods-cn/More_tea_leaf.rar"  
+},
+{  
 	"modname":"纳米科技装备",  
 	"tags":["物品扩展"],  
 	"author":"Shard",  
