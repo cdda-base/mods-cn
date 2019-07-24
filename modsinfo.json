@@ -1,11 +1,12 @@
 [
 {  
-	"modname":"Zets-Hair-Extensions-master",  
+	"modname":"Zets-Hair-Extensions-master(未汉化)",  
 	"tags":["更多外貌"],  
 	"author":"Zetsukaze",  
 	"ver":"未知",  
 	"info":"想要秀丽的头发吗，那就试试头发模组吧，妈妈再也不用担心我的发型了",    
-	"addr":"../../mods-cn/Zets-Hair-Extensions-master.zip"  
+	"addr":"../../mods-cn/Zets-Hair-Extensions-master.zip",
+	"warning":"上传时忘记翻译了……马上就会上传汉化后的"
 },{  
 	"modname":"无限时空",  
 	"tags":["物品扩展","地图扩展","NPC扩展","怪物扩展","技能扩展","载具扩展","地形扩展","贴图扩展","职业扩展","变异扩展"],  
