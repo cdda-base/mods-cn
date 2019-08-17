@@ -42,13 +42,13 @@
 	"addr":"../../mods-cn/Infinite_space_v1.2.zip"  
 },
 {  
-	"modname":"HenTai",  
-	"tags":["LUA扩展","物品扩展","NPC扩展","怪物扩展"],  
+	"modname":"HenTai-LUAEX",  
+	"tags":["LUA扩展","物品扩展","地图扩展","NPC扩展","怪物扩展"],  
 	"author":"溜まり場の変態&有志の方々",  
-	"ver":"Ver1.4_20190510+DDDDD汉化版",  
+	"ver":"LUAEX版,DDDDD再汉化,苍穹修复",  
 	"info":"追加HENTAI元素！",  
-	"warning":"适用于PC LUAEX(LUA实验)版,内附下载LUA实验版地址,不适用于安卓版。",  
-	"addr":"../../mods-cn/Hentai_mod_for_luaex.zip"  
+	"warning":"适用于PC-LUAEX(LUA实验)版,内附LUA实验版下载地址,不适用于安卓版与其他PC版本。",  
+	"addr":"../../mods-cn/Hentai-LUAEX-CN-FIX.zip"  
 },  
 {  
 	"modname":"培育茶叶MOD",  
@@ -222,6 +222,15 @@
 	"ver":"0.C.8242",  
 	"info":"使用黑虎阿福所使用的独特招式来击退敌人！",  
 	"addr":"../../mods-cn/黑虎阿福流派mod-0.C.8242.zip"  
+},  
+{  
+	"modname":"HenTai 1.4",  
+	"tags":["LUA扩展","物品扩展","NPC扩展","怪物扩展"],  
+	"author":"溜まり場の変態&有志の方々",  
+	"ver":"Ver1.4_20190510+DDDDD汉化版",  
+	"info":"追加HENTAI元素！",  
+	"warning":"适用于PC 0.D-8612前的版本,不适用于安卓版。",  
+	"addr":"../../mods-cn/Hentai_mod.Ver1.4._20190510_for_stable_D_version.zip""  
 },  
 {  
 	"modname":"hentai",  
