@@ -159,12 +159,12 @@
 	"addr":"../../mods-cn/Survivor Extend v 1.0.rar"  
 }, 
 {  
-	"modname":"采矿Mod",  
+	"modname":"采矿",  
 	"tags":["地图扩展","物品扩展"],  
 	"author":"DangerNoodle",  
 	"ver":"993499094汉化2018.7.9+言静修复版 0.d可用",  
 	"info":"在地下随机添加矿脉,获取各种自然资源.。",  
-	"addr":"../../mods-cn/CDDA_挖矿mod_Runningsky_CHS.zip"  
+	"addr":"../../mods-cn/采矿.zip"  
 }, 
 {  
 	"modname":"商人",  
