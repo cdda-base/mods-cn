@@ -1,10 +1,19 @@
 [
 {  
+	"modname":"更多幸存者工具拓展包",  
+	"tags":["物品扩展"],  
+	"author":"Chaosvolt",  
+	"ver":"2019.10.19,Centes翻译汉化", 
+    "info":"为更多幸存者工具mod添加一些额外的有用的合成配方.",  
+	"warning":"测试的游戏版本:0.D-9597与0.D-9797.",  
+	"addr":"../../mods-cn/MST_Extra_Mod-master.zip"  
+},
+{  
 	"modname":"超凡者游戏",  
 	"tags":["物品扩展","配方扩展","怪物扩展","掉落扩展","变异扩展"],  
 	"author":"桂溪",  
 	"ver":"v2.851", 
-        "info":"为了自己的命运，在未知的世界全力一搏！改编小说《超凡者游戏》，击杀强敌、收集天命强化自身，制作天命装备与进化特质.",  
+    "info":"为了自己的命运，在未知的世界全力一搏！改编小说《超凡者游戏》，击杀强敌、收集天命强化自身，制作天命装备与进化特质.",  
 	"warning":"超凡者v2.851整合修复版(详细看Mod介绍).<br>测试的游戏版本:0.D-9527与0.D-9796.",  
 	"addr":"../../mods-cn/Game_of_Destiny.zip"  
 },
@@ -30,7 +39,7 @@
 	"tags":["物品扩展","配方扩展","掉落扩展"],  
 	"author":"青青子衿",  
 	"ver":"2019年11月6日", 
-        "info":"前置mod，仅提供时空晶币的掉落及相关内容.",  
+    "info":"前置mod，仅提供时空晶币的掉落及相关内容.",  
 	"warning":"历代版本:https://pan.baidu.com/s/1a-GWF0FSn-v7An53N6cucw 提取码:1ww6.",  
 	"addr":"../../mods-cn/Infinite_space_v1.3.zip"  
 },
@@ -68,13 +77,12 @@
 	"addr":"../../mods-cn/stove.zip"
 },
 {  
-	"modname":"Zets-Hair-Extensions-master(未汉化)",  
+	"modname":"Zetsukaze的发型mod",  
 	"tags":["更多外貌"],  
 	"author":"Zetsukaze",  
-	"ver":"未知",  
-	"info":"添加各种不同颜色的发型,皮肤和眼睛. 支持'NPC特性'和'变异NPC'. *视觉效果仅适用于MSX++系列贴图.",    
-	"addr":"../../mods-cn/Zets-Hair-Extensions-master.zip",
-	"warning":"上传时忘记翻译了……马上就会上传汉化后的"
+	"ver":"言静翻译调整兼容0.D版本",  
+	"info":"添加了适用于DeadPeople贴图包的头发、眼睛和胡须.支持'NPC特性'和'变异NPC'. *视觉效果仅适用于MSX++系列贴图.",    
+	"addr":"../../mods-cn/Zets-Hair-Extensions-master.zip"
 },
 {  
 	"modname":"HenTai-LUAEX",  
