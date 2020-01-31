@@ -1,5 +1,14 @@
 [
 {  
+	"modname":"更多开局场景之一",  
+	"tags":["物品扩展","配方拓展","怪物拓展"],  
+	"author":"未知",  
+	"ver":"2019.8.16,Centes翻译汉化", 
+    "info":"添加了原版暂时没有的开局场景，提供了趣味性.",  
+	"warning":"内有大量新开局地点可供玩家使用.<br>测试版本10000~10200.",  
+	"addr":"../../mods-cn/更多开局地点之一.zip"  
+},
+{  
 	"modname":"回收改装机器人",  
 	"tags":["物品扩展","配方拓展","怪物拓展"],  
 	"author":"未知",  
@@ -239,9 +248,9 @@
 	"modname":"战锤40K【未汉化】",  
 	"tags":["物品扩展","怪物扩展"],  
 	"author":"Wulfle",  
-	"ver":"sddony修复2019.01.21",  
+	"ver":"Centes修复2020.01.30",  
 	"info":"增加了“战锤40000宇宙”的元素。",  
-	"warning":"需要同时加载内置mod:疯狂大灾变CrazyCataclysm。",  
+	"warning":"需要同时加载内置mod:疯狂大灾变CrazyCataclysm.<br>测试版本10000~10200。",  
 	"addr":"../../mods-cn/Cataclysim-40K-master.zip"  
 }, 
 {  
