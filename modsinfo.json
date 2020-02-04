@@ -198,11 +198,12 @@
 	"addr":"../../mods-cn/Odds-N-Ends-mod-prototype-master.rar"  
 },
 {
-	"modname":"变身",  
+	"modname":"变身(Henshin)",  
 	"tags":["物品扩展","武术扩展","场景扩展"],  
 	"author":"Musue暮雪",  
-	"ver":" 2019.05.21",  
+	"ver":" 2020.1.5",  
 	"info":"面向特摄粉丝和中后期玩家的异界内容补充包，推荐于最后加载",
+	"warning":"内有两个版本，分别适配新旧版本，新版本请使用new版.",
 	"addr":"../../mods-cn/Henshin.zip"  
 },
 {
