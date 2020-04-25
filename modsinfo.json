@@ -1,5 +1,14 @@
 [
 {  
+	"modname":"PKs_Rebalancing-0.E汉化版",  
+	"tags":["物品扩展","配方拓展","怪物拓展"],  
+	"author":"pisskop",  
+	"ver":"2020.4.18-Centes", 
+    "info":"PKs的汉化版本来了！这次只是0.E的汉化.",  
+	"warning":"测试版本0.E-10516，增添了大量的新怪物和物品供你玩耍.",  
+	"addr":"../../mods-cn/PKs_Rebalancing-master.zip"  
+},
+{  
 	"modname":"PKs_Rebalancing-0.D汉化版",  
 	"tags":["物品扩展","配方拓展","怪物拓展"],  
 	"author":"pisskop",  
