@@ -1,4 +1,28 @@
 [
+{
+	"modname":"农业拓展(0.E-10479)",
+	"tags":[""],
+	"author":"JXMs",
+	"ver":"A3",
+	"info":"Ver Alpha2.会逐步更新水培、堆肥、养蜂等等等等内容，敬请期待。",
+	"addr":"../../mods-cn/农业拓展A3(0.E-10479).zip"
+},
+{  
+	"modname":"cataclysm++汉化版(0.E-2)",  
+	"tags":["物品扩展","怪物扩展","任务扩展"],  
+	"author":"Noctifer",  
+	"ver":"0.E-2", 
+    "info":"大灾变的非官方扩展模式:黑暗的未来(经过某玩家数据平衡过)。",  
+	"addr":"../../mods-cn/cataclysmplus（0.E-E2）.zip"  
+},
+{  
+	"modname":"PKs_Rebalancing汉化版(0.E-2)",  
+	"tags":["物品扩展","配方拓展","怪物拓展"],  
+	"author":"pisskop",  
+	"ver":"5.7.2M_UO 0.E", 
+    "info":"重新平衡生成列表，添加新的怪物和物品，添加新的建筑和加强旧建筑，并努力创造一个更严酷的环境生存。内容添加了视频游戏《DOOM》的怪物。",  
+	"addr":"../../mods-cn/PKs（0.E-E2汉化）.zip"  
+},
 {  
 	"modname":"幸存者扩展(0.E-2)",  
 	"tags":["物品扩展","营地拓展","配方拓展"],  
