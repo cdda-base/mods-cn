@@ -1,5 +1,29 @@
 [
 {
+	"modname":"奥术和魔法物品汉化版(0.E-11385)",
+	"tags":[""],
+	"author":"Chaosvolt",
+	"ver":"0.E-11385",
+	"info":"奥术和魔法物品mod汉化版。",
+	"addr":"../../mods-cn/Arcana奥术汉化版(0.E-11385).zip"
+},
+{
+	"modname":"更多怪物枪械（0.E-E2）",
+	"tags":[""],
+	"author":"Axema Vales",
+	"ver":"0.E-E2",
+	"info":"深入你的世界与内心阴暗处,对抗拥有神秘力量污染的残暴猩红怪物,或者活下去....",
+	"addr":"../../mods-cn/Secronom_CN怪物枪械（0.E-E2）.zip"
+},
+{
+	"modname":"东方幻想乡职业（0.E-E2）",
+	"tags":[""],
+	"author":"Taberone",
+	"ver":"0.E-E2",
+	"info":"(某退坑玩家汉化)基于车万创作的一些职业. 平衡性没有保证(确实)",
+	"addr":"../../mods-cn/Touhou-东方幻想乡职业hsx汉化(0.E-E2).zip"
+},
+{
 	"modname":"农业拓展(0.E-10479)",
 	"tags":[""],
 	"author":"JXMs",
